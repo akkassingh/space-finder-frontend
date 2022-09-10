@@ -59,7 +59,7 @@ export class Profile extends React.Component<ProfileProps, ProfileState> {
 
         return(
             <div>
-                Welcome ti the profile page!
+                Welcome to the profile page!
                 {profileSpace}
             </div>
         )
